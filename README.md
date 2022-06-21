@@ -1,7 +1,9 @@
 **MONOPOLY GAME** 
+
 An example of Monopoly Game with only two users.
 
 **PROJECT DESCRIPTION**
+
 I programmed the project with using Java 8.
 
 Projects reads two json files about board elements and creates the board. After that projects reads input file and play the moves sequentially.
@@ -17,6 +19,13 @@ test stages.
  ```sh
   git clone https://github.com/berkayozdemir/Monopoly-Game-with-an-input-file.git
    ```
+   
+ _How to Run_
+ ```sh
+  javac –cp "json-simple.jar" Main.java
+  java –cp "json-simple.jar Main command.txt 
+   ```
+   
 
   
 
