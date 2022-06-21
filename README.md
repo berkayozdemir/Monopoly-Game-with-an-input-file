@@ -14,7 +14,7 @@ test stages.
 
  _Prerequisites_ 
  
-  -You need download [Json-simple.jar](https://code.google.com/archive/p/json-simple/downloads) and put into src file.
+  You need download [Json-simple.jar](https://code.google.com/archive/p/json-simple/downloads) and put into src file.
  
  _Installation_
  ```sh
