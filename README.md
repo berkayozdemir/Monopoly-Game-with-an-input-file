@@ -13,6 +13,7 @@ test stages.
 **HOW TO RUN**
 
  _Prerequisites_ 
+ 
   -You need download [Json-simple.jar](https://code.google.com/archive/p/json-simple/downloads) and put into src file.
  
  _Installation_
@@ -23,7 +24,7 @@ test stages.
  _How to Run_
  ```sh
   javac –cp "json-simple.jar" Main.java
-  java –cp "json-simple.jar Main command.txt 
+  java –cp "json-simple.jar" Main command.txt 
    ```
    
 
