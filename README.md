@@ -10,9 +10,13 @@ test stages.
 
 **HOW TO RUN**
 
-_ _Prerequisites_ _
+ _Prerequisites_ 
   -You need download [Json-simple.jar](https://code.google.com/archive/p/json-simple/downloads) and put into src file.
-  
+ 
+ _Installation_
+ ```sh
+  git clone https://github.com/berkayozdemir/Monopoly-Game-with-an-input-file.git
+   ```
 
   
 
